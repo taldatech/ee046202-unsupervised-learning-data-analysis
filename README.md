@@ -33,7 +33,7 @@ Press on the "Open in Colab" button below to use Google Colab:
 
 Or press on the "launch binder" button below to launch in Binder:
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/taldatech/ee046202-unsupervised-learning-data-analysis)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/taldatech/ee046202-unsupervised-learning-data-analysis/master)
 
 Note: creating the Binder instance takes about ~5-10 minutes, so be patient
 
