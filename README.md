@@ -53,6 +53,7 @@ Open the folder in Jupyter Notebook (it is recommended to use Anaconda). Install
 |`Setting Up The Working Environment.pdf`| Guide for installing Anaconda locally with Python 3 and PyTorch, integration with PyCharm and using GPU on Google Colab |
 |`ee046202_tutorial_00_probability_optimization.ipynb\pdf`| Probability basics, random variables, Bayes rule, expectancy, PDF and CDF, smoothing theorem, Multivariate Normal Distribution, Largrange Multipliers, Useful inequalities: Markov, Chebyshev, Hoeffding |
 |`ee046202_tutorial_01_classic_statistics_point_estimation.ipynb\pdf`|Classical statisstical inference (frequentist), Point Estimation, Evaluating estimators: Bias, Variance, Mean Squared Error (MSE), Consistency, The Tail Sum formula (non-parametric estimation), Maximum Likelihood Estimation (MLE), Vector/Matrix derivatives, KL-Divergence, Entropy, The Weak Law of Large Numbers |
+|`ee046202_tutorial_02_classic_statistics_confidence_intervals.ipynb\pdf`|Confidence Intervals and Interval Estimation, Bootstrap, PPF (Inverse of the CDF), Empirical CDF, Dvoretzky–Kiefer–Wolfowitz (DKW) Inequality|
 
 ## Installation Instructions
 
