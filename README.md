@@ -57,6 +57,7 @@ Open the folder in Jupyter Notebook (it is recommended to use Anaconda). Install
 |`ee046202_tutorial_03_classic_statistics_hypothesis_testing_1.ipynb\pdf`|Hypothesis Testing, Null and Alternative Hypotheses, Test statistic, z-stat, p-value, Significance level, Error types (type 1 and type 2), The central limit theorem (CLT)|
 |`ee046202_tutorial_04_classic_statistics_hypothesis_testing_2.ipynb\pdf`|Hypothesis Testing recap, t-test (t-statistic), Pearson Chi-squared test, Uniformly Most Powerful (UMP) Test, How to choose statitical test|
 |`ee046202_tutorial_05_dim_reduction_pca.ipynb\pdf`|Dimensionality reduction, Principle Component Analysis (PCA), PCA for compression, Relation to SVD, The Breast Cancer Dataset, Eigenvectors, Eigenvalues, The Transpose Trick, Kernels motivation, Feature extraction, Feature selection|
+|`ee046202_tutorial_06_dim_reduction_kernel_pca.ipynb\pdf`|Kernels, The Kernel Trick, Mercer condition, Radial Basis Function (RBF), Kernel PCA (KPCA)|
 
 ## Installation Instructions
 
