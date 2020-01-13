@@ -61,7 +61,8 @@ Open the folder in Jupyter Notebook (it is recommended to use Anaconda). Install
 |`ee046202_tutorial_07_dim_reduction_tsne.ipynb\pdf`|Stochastic Neighbor Embedding (SNE), t-SNE, The crowding problem, Student t-distribution, KL-divergence|
 |`ee046202_tutorial_08_deep_learn_pytorch_ae.ipynb\pdf`|PyTorch, MNIST, Fashion-MNIST, MULTI-layer Perceptron (MLP), Fully-Connected (FC), Convolutional Networks (CNN), Autoencoders|
 |`ee046202_tutorial_09_deep_unsupervised_vae_1.ipynb\pdf`|Implicit and Explicit Generative models, GANs, Variational Inference (VI), Variational Autoencoder (VAE), Evidence Lower Bound (ELBO), Reparameterization Trick|
-|`ee046202_tutorial_10_deep_unsupervised_vae_.ipynb\pdf`|VAE implementation, interpolation in the latent space, saving and loading models in PyTorch|
+|`ee046202_tutorial_10_deep_unsupervised_vae_2.ipynb\pdf`|VAE implementation, interpolation in the latent space, saving and loading models in PyTorch|
+|`ee046202_tutorial_11_expectation_maximization.ipynb\pdf`|Clustering, K-Means, Gaussian Mixture Model (GMM), Expectation Maximization (EM) algorithm, Bernoulli Mixture Model (BMM)|
 
 ## Installation Instructions
 
