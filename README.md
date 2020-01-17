@@ -63,6 +63,7 @@ Open the folder in Jupyter Notebook (it is recommended to use Anaconda). Install
 |`ee046202_tutorial_09_deep_unsupervised_vae_1.ipynb\pdf`|Implicit and Explicit Generative models, GANs, Variational Inference (VI), Variational Autoencoder (VAE), Evidence Lower Bound (ELBO), Reparameterization Trick|
 |`ee046202_tutorial_10_deep_unsupervised_vae_2.ipynb\pdf`|VAE implementation, interpolation in the latent space, saving and loading models in PyTorch|
 |`ee046202_tutorial_11_expectation_maximization.ipynb\pdf`|Clustering, K-Means, Gaussian Mixture Model (GMM), Expectation Maximization (EM) algorithm, Bernoulli Mixture Model (BMM)|
+|`ee046202_tutorial_12_spectral_clustering.ipynb\pdf`|Spectral Clustering (Graph Clustering), Degree matrix, Weighted Adjacency matrix, Similarity graph, epsilon-neighborhood graph, KNN graph, Fully connected graph, Graph Laplacian, GraphCut, MinCut, RatioCut|
 
 ## Installation Instructions
 
