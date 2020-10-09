@@ -2,6 +2,8 @@
 
 Jupyter Notebook tutorials for the Technion's EE 046202 course "Unsupervised Learning and Data Analysis"
 
+[![nbviewer](https://jupyter.org/assets/main-logo.svg)](https://nbviewer.jupyter.org/github/taldatech/ee046202-unsupervised-learning-data-analysis/tree/master/) [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taldatech/ee046202-unsupervised-learning-data-analysis) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/taldatech/ee046202-unsupervised-learning-data-analysis/master)
+
 <img src="https://github.com/taldatech/ee046202-unsupervised-learning-data-analysis/blob/master/assets/tut_xx_mnist_anim.gif" width="200"><img src="https://github.com/taldatech/ee046202-unsupervised-learning-data-analysis/blob/master/assets/tut_xv_vae_anim.gif" width="200">
 
 For the old tutorials, please see `winter20` branch.
