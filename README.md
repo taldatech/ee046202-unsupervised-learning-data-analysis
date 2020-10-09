@@ -2,10 +2,9 @@
 
 Jupyter Notebook tutorials for the Technion's EE 046202 course "Unsupervised Learning and Data Analysis"
 
-<img src="https://github.com/taldatech/ee046202-unsupervised-learning-data-analysis/blob/master/assets/tut_xx_mnist_anim.gif" width="200">
-<img src="https://github.com/taldatech/ee046202-unsupervised-learning-data-analysis/blob/master/assets/tut_xv_vae_anim.gif" width="200">
+<img src="https://github.com/taldatech/ee046202-unsupervised-learning-data-analysis/blob/master/assets/tut_xx_mnist_anim.gif" width="200"><img src="https://github.com/taldatech/ee046202-unsupervised-learning-data-analysis/blob/master/assets/tut_xv_vae_anim.gif" width="200">
 
-For the old tutorials, please see `winter20` branch
+For the old tutorials, please see `winter20` branch.
 
 - [ee046202-unsupervised-learning-data-analysis](#ee046202-unsupervised-learning-data-analysis)
   * [Running The Notebooks](#running-the-notebooks)
