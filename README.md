@@ -63,6 +63,7 @@ Open the folder in Jupyter Notebook (it is recommended to use Anaconda). Install
 |`ee046202_tutorial_00_probability_optimization.ipynb\pdf`| Probability basics, random variables, Bayes rule, expectancy, PDF and CDF, smoothing theorem, Multivariate Normal Distribution, Largrange Multipliers, Useful inequalities: Markov, Chebyshev, Hoeffding |
 |`ee046202_tutorial_01_classic_statistics_point_estimation.ipynb\pdf`| Classical statistical inference (frequentist), Point Estimation, Evaluating estimators: Bias, Variance, Mean Squared Error (MSE), Consistency, The Tail Sum formula (non-parametric estimation), Maximum Likelihood Estimation (MLE), Vector/Matrix derivatives, KL-Divergence, Entropy, The Weak Law of Large Numbers|
 |`ee046202_tutorial_02_classic_statistics_confidence_intervals.ipynb\pdf`| Confidence Intervals and Interval Estimation, Bootstrap, PPF (Inverse of the CDF), Empirical CDF, Dvoretzky–Kiefer–Wolfowitz (DKW) Inequality|
+|`ee046202_tutorial_03_classic_statistics_hypothesis_testing_1.ipynb\pdf`| Hypothesis Testing, Null and Alternative Hypotheses, Test statistic, z-stat, p-value, Significance level, Error types (type 1 and type 2), The central limit theorem (CLT)|
 
 ## Installation Instructions
 
