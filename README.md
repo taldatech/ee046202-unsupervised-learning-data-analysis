@@ -68,6 +68,7 @@ Open the folder in Jupyter Notebook (it is recommended to use Anaconda). Install
 |`ee046202_tutorial_05n_dim_reduction_pca_kernels.ipynb\pdf`| Dimensionality reduction, Principle Component Analysis (PCA), PCA for compression, Relation to SVD, The Breast Cancer Dataset, Eigenvectors, Eigenvalues, The Transpose Trick, Kernels motivation, Feature extraction, Kernels, The Kernel Trick, Mercer condition, Radial Basis Function (RBF), Kernel PCA (KPCA)|
 |`ee046202_tutorial_06_dim_reduction_tsne.ipynb\pdf`| Stochastic Neighbor Embedding (SNE), t-SNE, The crowding problem, Student t-distribution, KL-divergence|
 |`ee046202_tutorial_07_deep_learn_pytorch_ae.ipynb\pdf`| PyTorch, MNIST, Fashion-MNIST, MULTI-layer Perceptron (MLP), Fully-Connected (FC), Convolutional Networks (CNN), Autoencoders|
+|`ee046202_tutorial_08_deep_unsupervised_vae_1.ipynb\pdf`| Implicit and Explicit Generative models, GANs, Variational Inference (VI), Variational Autoencoder (VAE), Evidence Lower Bound (ELBO), Reparameterization Trick|
 
 ## Installation Instructions
 
