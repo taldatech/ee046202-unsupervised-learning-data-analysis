@@ -1,13 +1,27 @@
 # ee046202-unsupervised-learning-data-analysis
 
+<h1 align="center">
+  <br>
+Technion EE 046202 - Unsupervised Learning and Data Analysis
+  <br>
+  <img src="https://github.com/taldatech/ee046202-unsupervised-learning-data-analysis/blob/master/assets/tut_xx_mnist_anim.gif" width="200"><img src="https://github.com/taldatech/ee046202-unsupervised-learning-data-analysis/blob/master/assets/tut_xv_vae_anim.gif" width="200">
+</h1>
+
+<p align="center">
+    <a href="https://taldatech.github.io">Tal Daniel</a> •
+    <a href="https://ronmeir.net.technion.ac.il/">Ron Meir</a>
+  </p>
+
 Jupyter Notebook tutorials for the Technion's EE 046202 course "Unsupervised Learning and Data Analysis"
 
-[![nbviewer](https://jupyter.org/assets/main-logo.svg)](https://nbviewer.jupyter.org/github/taldatech/ee046202-unsupervised-learning-data-analysis/tree/master/) 
+<h4 align="center">
+    <a href="https://colab.research.google.com/github/taldatech/ee046202-unsupervised-learning-data-analysis"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+    <a href="https://nbviewer.jupyter.org/github/taldatech/ee046202-unsupervised-learning-data-analysis/tree/master/"><img src="https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/nbviewer_badge.svg" alt="Open In NBViewer"/></a>
+    <a href="https://mybinder.org/v2/gh/taldatech/ee046202-unsupervised-learning-data-analysis/master"><img src="https://mybinder.org/badge_logo.svg" alt="Open In Binder"/></a>
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/taldatech/ee046202-unsupervised-learning-data-analysis) 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/taldatech/ee046202-unsupervised-learning-data-analysis/master)
+</h4>
 
-<img src="https://github.com/taldatech/ee046202-unsupervised-learning-data-analysis/blob/master/assets/tut_xx_mnist_anim.gif" width="200"><img src="https://github.com/taldatech/ee046202-unsupervised-learning-data-analysis/blob/master/assets/tut_xv_vae_anim.gif" width="200">
+
 
 For the old tutorials, please see `winter20` branch.
 
@@ -33,7 +47,7 @@ You can view the tutorials online or download and run locally.
 
 Jupyter Nbviewer:
 
-[![nbviewer](https://jupyter.org/assets/main-logo.svg)](https://nbviewer.jupyter.org/github/taldatech/ee046202-unsupervised-learning-data-analysis/tree/master/)
+[![nbviewer](https://raw.githubusercontent.com/taldatech/ee046211-deep-learning/main/assets/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/taldatech/ee046202-unsupervised-learning-data-analysis/tree/master/)
 
 
 Press on the "Open in Colab" button below to use Google Colab:
